@@ -1,0 +1,190 @@
+* {
+    margin: auto;
+    padding: auto;
+}
+
+#head {
+    width: 1080px;
+    height: 960px;
+    border: 1px solid black;
+}
+.son {
+    margin: 20px;
+}
+.ndtrai {
+    width: 400px;
+    height: 829px;
+    float:left;
+    background-color: gray;
+    margin-top:10px;
+}
+.ndphai {
+    width:630px;
+    
+    float:left;
+    margin-left:10px;
+    background-color: gray;
+}
+
+.dau {
+    color: gray;
+}
+
+.menu {
+    background-color: gray;
+    width: 100%;
+    height: 50px;
+    border-radius: 5px;
+}
+
+.menu li {
+    list-style: none;
+}
+
+.tdtrai {
+    background-color: whitesmoke;
+}
+.hinhhome img{
+    width:100%;
+}
+.tdtrai{
+    background-color: aliceblue;
+    height:30px;
+}
+.tdtrai h2{
+    margin-left:10px;
+}
+.tdphai{
+    background-color: aliceblue;
+    height:30px;
+}
+.tdphai h2{
+   
+    margin-left:10px;
+}
+.tin{
+    min-height:100px;
+    float:left;
+    margin-top:10px;
+    background-color: gray;
+}
+.tin img{
+    margin-right: 12px;
+    margin-left:10px;
+    float:left;
+}
+h2{
+    font-size:15px;
+}
+.tin p{
+    font-size:13px;
+}
+#imgt{
+    width:100%;
+    text-align: center;
+}
+#imgt img{
+    margin-top:15px;
+    margin-left:5px;
+    width: 80px;
+    
+}
+.hinhhome{
+    background-color: white;
+}
+.tinphai img{
+    margin-top:20px;
+    margin-right:10px;
+    margin-left:10px;
+    float:left;   
+}
+.tinphai{
+    height:215px;
+}
+.tinphai p{
+    margin-top:20px;
+    font-size:13px;
+}
+hr{
+    width:99%;
+    border:0px;
+    border-color:rgb(255, 255, 255);
+}
+.more{
+    float:right;
+    margin-right:20px;
+    margin-bottom:20px;
+}
+.more a{
+    text-decoration: none;
+    color:white;
+}
+.moreb{
+    float:right;
+    margin-right:20px;
+    margin-bottom:20px;
+    margin-top:10px;
+}
+.moreb a{
+    text-decoration: none;
+    color:white;
+}
+.morea{
+    float:right;
+    margin-right:200px;
+    margin-bottom:20px;
+    margin-top:7px;
+}
+.morea a{
+    text-decoration: none;
+    color:white;
+}
+.more a:hover{
+    color:black;
+}
+.morea a:hover{
+    color:black;
+}
+.moreb a:hover{
+    color:black;
+}
+.ndtraic{
+    margin-left:10px;
+}
+.tint{
+    width:50%;
+    height:176px;
+    float:left;
+}
+.tint img{
+    width:160px;
+    margin-left:10px;
+    margin-right:10px;
+    margin-top:10px;
+     float:left;
+}
+.tint h2{
+    margin-top:10px;
+}
+.tint p{
+    margin-top:5px;
+    font-size:13px;
+}
+.tinti{
+    width:50%;
+    float:left;
+}
+.tinti img{
+    width:160px;
+    margin-left:10px;
+    margin-right:10px;
+    margin-top:10px;
+     float:left;
+}
+.tinti h2{
+    margin-top:10px;
+}
+.tinti p{
+    margin-top:5px;
+    font-size:13px;
+}
